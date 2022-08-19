@@ -41,6 +41,8 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226205/index.m3u8
 #EXTINF:-1tvg-id="BTV.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"group-title="卫视",北京卫视
 http://39.134.39.39/TVOD/88888888/224/3221226161/index.m3u8
+#EXTINF:-1tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png"group-title="卫视",重庆卫视
+http://39.134.66.66/PLTV/88888888/224/3221225873/index.m3u8
 #EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png"group-title="卫视",东方卫视
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png"group-title="卫视",东南卫视
@@ -99,8 +101,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"group-title="卫视",浙江卫视
 http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
-#EXTINF:-1tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png"group-title="卫视",重庆卫视
-http://39.134.66.66/PLTV/88888888/224/3221225873/index.m3u8
 
 #EXTINF:-1,group-title="其他",CCTV-电视指南
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
